@@ -9,7 +9,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myungsan&theme=dark&hide_border=true&layout=compact">
 
 - 🔭 I’m currently working on an app called EJ, Exercise Journal. 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, HTML & CSS
 - 👯 I’m looking to collaborate on making apps for wellbeing of our lives.
 - ⚡ Fun fact: I'm a 2nd Dan Taekwondo Black Belt
 
