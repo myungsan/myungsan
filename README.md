@@ -11,6 +11,6 @@
 - 🔭 I’m currently working on an app called EJ, Exercise Journal. 
 - 🌱 I’m currently learning C++, HTML & CSS
 - 👯 I’m looking to collaborate on making apps for wellbeing of our lives.
-- ⚡ Fun fact: I'm a 2nd Dan Taekwondo Black Belt
+- ⚡ Fun fact: I sleep by 9pm LOL
 
 
