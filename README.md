@@ -8,9 +8,8 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myungsan&theme=dark&hide_border=true&layout=compact">
 
-- 🔭 I’m currently working on an app called EJ, Exercise Journal. 
-- 🌱 I’m currently learning C++, HTML & CSS
-- 👯 I’m looking to collaborate on making apps for wellbeing.
-- ⚡ Fun fact: I sleep by 9pm LOL
+- 🔭 I’m currently working on using Data to answer questions to enhance wellness!
+- 🌱 I’m currently learning SQL
+- ⚡ Fun fact: I am 2nd Dan Black Belt in  Taekwondo
 
 
